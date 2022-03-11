@@ -1,0 +1,21 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Fredoka', sans-serif;
+    text-align: center; 
+}
+
+li.a {
+    list-style-type: none;
+   /* text-align: center; */
+    margin: 10px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c0c0c0;
+}
